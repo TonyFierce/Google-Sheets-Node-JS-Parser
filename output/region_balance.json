@@ -1,0 +1,48 @@
+{
+  "CIS_Balance": [
+    {
+      "start_date": "5/1/2024",
+      "end_date": "5/5/2024",
+      "balance": "Gacha_Base"
+    },
+    {
+      "start_date": "5/4/2024",
+      "end_date": "5/8/2024",
+      "balance": "Gacha_Rare"
+    }
+  ],
+  "EU_Balance": [
+    {
+      "start_date": "5/1/2024",
+      "end_date": "5/4/2024",
+      "balance": "RouletteBase"
+    },
+    {
+      "start_date": "5/1/2024",
+      "end_date": "5/5/2024",
+      "balance": "Gacha_Base"
+    },
+    {
+      "start_date": "5/3/2024",
+      "end_date": "5/9/2024",
+      "balance": "Gacha_Rare"
+    }
+  ],
+  "UK_Balance": [
+    {
+      "start_date": "5/8/2024",
+      "end_date": "5/9/2024",
+      "balance": "RouletteEpic"
+    },
+    {
+      "start_date": "5/9/2024",
+      "end_date": "5/11/2024",
+      "balance": "Gacha_Rare"
+    },
+    {
+      "start_date": "5/11/2024",
+      "end_date": "5/13/2024",
+      "balance": "Gacha_Base"
+    }
+  ]
+}
