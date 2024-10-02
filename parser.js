@@ -3,8 +3,9 @@ import { JWT } from 'google-auth-library'; // Import the JSON Web Token class
 import fs from 'fs';
 import dotenv from 'dotenv';
 
-// For the script to work, open and edit the .env file in the project folder
-// Replace "C:\path\to\service-account-key.json" with a valid path to JSON service account key that you downloaded from Google Cloud console
+// For the script to work, create an .env file in the project folder
+// Add GOOGLE_SHEET_KEY_PATH=C:\path\to\service-account-key.json 
+// Replace with a valid path to JSON service account key that you downloaded from Google Cloud console
 
 // Load environment variables from .env file
 dotenv.config();
