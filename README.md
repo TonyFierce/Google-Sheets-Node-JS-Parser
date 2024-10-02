@@ -2,7 +2,8 @@
  
 ## Overview
 
-This script (parser.js) fetches game rewards balance data from a Google Sheets document using a service account for API authentication.  
+This script (parser.js) fetches game rewards balance data from a Google Sheets document using a service account for API authentication.
+
 It extracts valid reward balance types from specified columns, tracks active balances for different regions, and saves the results to a JSON file.
 
 ## Setup
